@@ -1,0 +1,2 @@
+# 本系统零第三方依赖：仅需 Python 3.11+ 标准库（http.server / sqlite3 / hashlib）。
+# 直接运行：python3 run.py
